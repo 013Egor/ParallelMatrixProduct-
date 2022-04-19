@@ -16,7 +16,7 @@ ParallelMatrixProduct is the program for matrix product.
 After those steps follow commands which appear in command line.
 
 #Example
----------------------------------------------------------------
+```bash
 Enter amount of threads:
 4
 Enter amount of rows of matrix:
@@ -40,4 +40,4 @@ Row #2:
 Product(0.02):
 | 6 12 18 24 30 |
 | 9 18 27 36 45 |
----------------------------------------------------------------
+```
