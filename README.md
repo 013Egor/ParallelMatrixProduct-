@@ -1,13 +1,13 @@
 # ParallelMatrixProduct-
 ParallelMatrixProduct is the program for matrix product.
 
-#Installation
+## Installation
 
 ```bash
 ~/$ ./start
 ```
 
-#Usage
+## Usage
 ```bash
 ~/$ cd bin
 ~/bin/java src.Main
@@ -15,7 +15,7 @@ ParallelMatrixProduct is the program for matrix product.
 
 After those steps follow commands which appear in command line.
 
-#Example
+## Example
 ```bash
 Enter amount of threads:
 4
